@@ -1,7 +1,7 @@
 hello atguidu! hello git!
 hello atguidu! hello git!
 hello atguidu! hello git!
-hello atguidu! hello git!
+hello atguidu! hello git!  hot-fix.add
 hello atguidu! hello git!
 hello atguidu! hello git!
 hello atguidu! hello git!
