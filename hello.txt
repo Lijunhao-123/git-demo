@@ -1,7 +1,7 @@
 hello atguidu! hello git!
 hello atguidu! hello git!
 hello atguidu! hello git!
-hello atguidu! hello git!
+hello atguidu! hello git!  master.add
 hello atguidu! hello git!
 hello atguidu! hello git!
 hello atguidu! hello git!
